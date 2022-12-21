@@ -3,6 +3,8 @@ float 5.0;
  
 
 if (var==5.0){
+ 
+ cout<<"undefined";
   
   
   };
