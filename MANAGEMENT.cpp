@@ -18,5 +18,5 @@ if (var==5.0){
   };
 };
 int num;
-for(){
+for(num==var){
  }
