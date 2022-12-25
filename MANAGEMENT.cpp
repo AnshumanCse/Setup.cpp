@@ -20,3 +20,4 @@ if (var==5.0){
 int num;
 for(num==var){
  }
+return 0;
