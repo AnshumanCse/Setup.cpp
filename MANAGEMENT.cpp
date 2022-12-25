@@ -19,7 +19,9 @@ if (var==5.0){
 };
 int num;
 for(num==var){
- if (){
+ if (num!=var){
+
+cout<<"";
   
   }
  
