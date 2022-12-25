@@ -19,5 +19,10 @@ if (var==5.0){
 };
 int num;
 for(num==var){
+ if (){
+  
+  }
+ 
+ 
  }
 return 0;
