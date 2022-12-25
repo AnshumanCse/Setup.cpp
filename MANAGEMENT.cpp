@@ -21,7 +21,7 @@ int num;
 for(num==var){
  if (num!=var){
 
-cout<<"";
+cout<<"change ditected";
   
   }
  
