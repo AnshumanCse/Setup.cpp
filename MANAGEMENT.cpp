@@ -26,6 +26,7 @@ cout<<"change ditected";
   }
  
  else{
+  cout;
   }
  }
 return 0;
