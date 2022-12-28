@@ -25,8 +25,11 @@ cout<<"change ditected";
   
   }
  
- else{
+ else if{
   cout<<"nothing"<<endl;
   }
+ else {
+  default;
+ }
  }
 return 0;
