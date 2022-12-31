@@ -26,7 +26,7 @@ cout<<"change ditected";
   }
  
  else if{
-  cout<<"nothing"<<endl;
+  cout<<"nothing it was"<<endl;
   }
  else {
   cout<<"this sis default case setup";
