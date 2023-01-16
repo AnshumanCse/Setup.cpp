@@ -25,7 +25,7 @@ cout<<"change ditected";
   
   }
  
- else if(var!=num){
+ else if(var!=m){
   cout<<"nothing it was"<<endl;
   }
  else {
