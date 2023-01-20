@@ -29,7 +29,11 @@ cout<<"change ditected";
   cout<<"nothing it was"<<endl;
   }
  else if() {
+  
   cout<<"this sis default case setup";
  }
  }
+else{. 
+ 
+ };
 return 0;
