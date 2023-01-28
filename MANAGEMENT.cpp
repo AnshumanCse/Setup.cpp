@@ -33,7 +33,7 @@ cout<<"change ditected";
   cout<<"this..sis default case setup";
  }
  }
-else{"exit else case all"
+else{"exit else case all)"
  
  };
 return 0;
