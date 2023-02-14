@@ -7,7 +7,7 @@ int main()
 
 
 int var;
-float 5.0;
+float 5;
  
 
 if (var==5.0){
