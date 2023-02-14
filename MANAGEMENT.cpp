@@ -26,7 +26,7 @@ cout<<"change ditected";
   }
  
  else if(var!=num){
-  cout<<"nothing it was altimate"<<endl;
+  cout<<"nothing it was "<<endl;
   }
  else if( number !=variable) {
   
