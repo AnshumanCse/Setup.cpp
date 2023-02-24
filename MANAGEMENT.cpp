@@ -28,7 +28,7 @@ cout<<"change ditected";
  else if(var!=num){
   cout<<"nothing it was "<<endl;
   }
- else if( number !=variable) {
+ else if( number !=variable =>) {
   
   cout<<"this..sis default case setup):";
  }
