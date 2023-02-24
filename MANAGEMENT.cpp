@@ -34,10 +34,12 @@ cout<<"change ditected";
  }
  }
 
-int prime;
 
 
-else{"exit else case all)"
- 
- };
+
+else{"exit else case all)"};
+int primary;
+
+
+
 return 0;
