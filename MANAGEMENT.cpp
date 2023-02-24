@@ -39,6 +39,9 @@ cout<<"change ditected";
 
 else{"exit else case all)"};
 int primary;
+if(){
+ 
+}
 
 
 
